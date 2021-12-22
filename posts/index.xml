@@ -1,35 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Eamon&#39;s Blog</title>
-    <link>https://www.pangyu.fun/</link>
-    <description>Recent content on Eamon&#39;s Blog</description>
+    <title>博文 on Eamon&#39;s Blog</title>
+    <link>https://www.pangyu.fun/posts/</link>
+    <description>Recent content in 博文 on Eamon&#39;s Blog</description>
     <image>
       <url>https://images.unsplash.com/photo-1510843572979-e4b9e790fdd7?auto=format&fit=crop&w=720&q=80</url>
       <link>https://images.unsplash.com/photo-1510843572979-e4b9e790fdd7?auto=format&fit=crop&w=720&q=80</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 03 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.pangyu.fun/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>关于</title>
-      <link>https://www.pangyu.fun/about/</link>
-      <pubDate>Wed, 22 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.pangyu.fun/about/</guid>
-      <description>你好 网上邻居 欢迎来到我的博客，我是 庞宇 Eamon。
-本博客用于 分享/总结/记录 我的生活或工作中跟编程有关的 知识/思考/想法。
-关于我 现居 广州。
-使用
- Java / Kotlin（主要使用 ❤️）； SpringBoot； SpringCloud。  如果你想 联系我。
-关于博客 静态网站生成器
- Jekyll 4.0 https://jekyllrb.com/ 使用主题 Lagrange http://jekyllthemes.org/themes/lagrange/  代码托管
- GitHub 博客源码在这里  博客部署
- GitHub Pages  中英支持 为了更好的练习英文，本博客支持中文和英文两种语言。有对应语言的页面时，可以点击右上角的语言字符进行切换。
-顺便一提，本博客以英文为主，当然，也会有相应的中文内容。
-敬请期待。
-感谢你的驻足 相关链接  Codeicon by Icons8 Powered by Jekyll with Lagrange theme Deployed by GitHub Pages Free to use photos by Pexels Free to use photos by Unsplash  </description>
-    </item>
-    
+    <lastBuildDate>Mon, 03 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.pangyu.fun/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kotlin/Java TDD 开发流程记录</title>
       <link>https://www.pangyu.fun/posts/kotlin-java-tdd-example/</link>
@@ -194,17 +174,6 @@ Avoid:
 无阻塞背压的异步流处理 Reactive Streams 由以下组成：
  异步； 流式； 无阻塞； 背压（回压）。  以下是 Java 接口，你可以在 GitHub 阅读更详细内容。
 public interface Publisher&amp;lt;T&amp;gt; { public void subscribe(Subscriber&amp;lt;? super T&amp;gt; s); } public interface Subscriber&amp;lt;T&amp;gt; { public void onSubscribe(Subscription s); public void onNext(T t); public void onError(Throwable t); public void onComplete(); } public interface Subscription { public void request(long n); public void cancel(); } public interface Processor&amp;lt;T, R&amp;gt; extends Subscriber&amp;lt;T&amp;gt;, Publisher&amp;lt;R&amp;gt; { } Reactive Extensions  用于可观察流的异步编程 API。</description>
-    </item>
-    
-    
-    
-    <item>
-      <title>项目</title>
-      <link>https://www.pangyu.fun/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.pangyu.fun/projects/</guid>
-      <description></description>
     </item>
     
   </channel>
