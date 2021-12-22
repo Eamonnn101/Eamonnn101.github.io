@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://Eamonnn101.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Eamon&#39;s Blog</title>
+    <link>https://www.pangyu.fun/</link>
+    <description>Recent content on Eamon&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 22 Dec 2021 14:46:32 +0800</lastBuildDate><atom:link href="http://Eamonnn101.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 22 Dec 2021 14:46:32 +0800</lastBuildDate><atom:link href="https://www.pangyu.fun/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Myfirst</title>
-      <link>http://Eamonnn101.github.io/post/myfirst/</link>
+      <link>https://www.pangyu.fun/myfirst/</link>
       <pubDate>Wed, 22 Dec 2021 14:46:32 +0800</pubDate>
       
-      <guid>http://Eamonnn101.github.io/post/myfirst/</guid>
+      <guid>https://www.pangyu.fun/myfirst/</guid>
       <description>Test!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</description>
     </item>
     
