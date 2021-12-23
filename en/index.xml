@@ -9,5 +9,32 @@
       <link>https://images.unsplash.com/photo-1510843572979-e4b9e790fdd7?auto=format&fit=crop&w=720&q=80</link>
     </image>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://www.pangyu.fun/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://www.pangyu.fun/en/about/</link>
+      <pubDate>Wed, 22 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.pangyu.fun/en/about/</guid>
+      <description>Hello There Welcome to my blog, I am Eamon, 庞宇 in Chinese.
+This blog is used to share/summary/note some knowledge/thinking/ideas related to music and sounds in my life or work.
+About Me My job is sound designer and Game Soundtrack artist.
+Base Guangzhou China.
+Use:
+ DAW: Cubase / Reaper（mainly used ❤️）； Middleware: Wwise； Game engine: Unity / UE。  If you want to contact me.
+Social platform: 知乎、微博、B站
+About Blog Static website generator</description>
+    </item>
+    
+    
+    <item>
+      <title>Projects</title>
+      <link>https://www.pangyu.fun/en/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.pangyu.fun/en/projects/</guid>
+      <description></description>
+    </item>
+    
+    
   </channel>
 </rss>

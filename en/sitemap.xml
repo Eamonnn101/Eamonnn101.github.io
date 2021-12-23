@@ -2,6 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.pangyu.fun/en/about/</loc>
+    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.pangyu.fun/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.pangyu.fun/en/about/"
+                />
+  </url><url>
+    <loc>https://www.pangyu.fun/en/archives/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.pangyu.fun/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.pangyu.fun/en/archives/"
+                />
+  </url><url>
     <loc>https://www.pangyu.fun/en/</loc>
     <xhtml:link
                 rel="alternate"
@@ -12,6 +37,30 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.pangyu.fun/en/"
+                />
+  </url><url>
+    <loc>https://www.pangyu.fun/en/projects/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.pangyu.fun/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.pangyu.fun/en/projects/"
+                />
+  </url><url>
+    <loc>https://www.pangyu.fun/en/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.pangyu.fun/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.pangyu.fun/en/search/"
                 />
   </url><url>
     <loc>https://www.pangyu.fun/en/tags/</loc>
