@@ -4,10 +4,14 @@
   <sitemap>
     <loc>https://www.pangyu.fun/en/sitemap.xml</loc>
     
+      <lastmod>2021-03-20T00:00:00+00:00</lastmod>
+    
   </sitemap>
   
   <sitemap>
     <loc>https://www.pangyu.fun/zh/sitemap.xml</loc>
+    
+      <lastmod>2021-03-20T00:00:00+00:00</lastmod>
     
   </sitemap>
   
