@@ -28,6 +28,32 @@
                 href="https://www.pangyu.fun/"
                 />
   </url><url>
+    <loc>https://www.pangyu.fun/tags/%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.pangyu.fun/en/tags/%E7%AC%94%E8%AE%B0/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.pangyu.fun/tags/%E7%AC%94%E8%AE%B0/"
+                />
+  </url><url>
+    <loc>https://www.pangyu.fun/tags/</loc>
+    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.pangyu.fun/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.pangyu.fun/tags/"
+                />
+  </url><url>
     <loc>https://www.pangyu.fun/tags/%E5%8D%9A%E6%96%87/</loc>
     <lastmod>2021-03-20T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -54,45 +80,6 @@
                 href="https://www.pangyu.fun/posts/"
                 />
   </url><url>
-    <loc>https://www.pangyu.fun/tags/%E6%80%BB%E7%BB%93/</loc>
-    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.pangyu.fun/en/tags/%E6%80%BB%E7%BB%93/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.pangyu.fun/tags/%E6%80%BB%E7%BB%93/"
-                />
-  </url><url>
-    <loc>https://www.pangyu.fun/tags/</loc>
-    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.pangyu.fun/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.pangyu.fun/tags/"
-                />
-  </url><url>
-    <loc>https://www.pangyu.fun/tags/%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.pangyu.fun/en/tags/%E7%AC%94%E8%AE%B0/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.pangyu.fun/tags/%E7%AC%94%E8%AE%B0/"
-                />
-  </url><url>
     <loc>https://www.pangyu.fun/posts/guigu-online-summary/</loc>
     <lastmod>2021-03-20T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -104,6 +91,19 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://www.pangyu.fun/posts/guigu-online-summary/"
+                />
+  </url><url>
+    <loc>https://www.pangyu.fun/tags/%E6%80%BB%E7%BB%93/</loc>
+    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.pangyu.fun/en/tags/%E6%80%BB%E7%BB%93/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.pangyu.fun/tags/%E6%80%BB%E7%BB%93/"
                 />
   </url><url>
     <loc>https://www.pangyu.fun/archives/</loc>
