@@ -143,27 +143,7 @@
                 />
   </url><url>
     <loc>https://www.pangyu.fun/en/tags/%E6%80%9D%E8%80%83/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.pangyu.fun/tags/%E6%80%9D%E8%80%83/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.pangyu.fun/en/tags/%E6%80%9D%E8%80%83/"
-                />
   </url><url>
     <loc>https://www.pangyu.fun/en/posts/piece-of-mind/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.pangyu.fun/posts/piece-of-mind/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.pangyu.fun/en/posts/piece-of-mind/"
-                />
   </url>
 </urlset>
